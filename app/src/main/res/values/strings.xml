@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Boloid</string>
+    <string name="tab_map">Map</string>
+    <string name="tab_list">List</string>
+    <string name="no_connection">Network connection not established</string>
+    <string name="err_unknown">Unknown error occurred</string>
+    <string name="info_no_tasks_retrieved">No tasks have been retrieved</string>
+    <plurals name="info_tasks_retrieved">
+        <item quantity="one">%1$d task retrieved from the server</item>
+        <item quantity="other">%1$d tasks retrieved from the server</item>
+    </plurals>
+    <string name="option_refresh">Refresh</string>
+    <string name="prices">Prices:</string>
+    <string name="no_prices">(no prices for this task)</string>
+    <plurals name="prices_count">
+        <item quantity="one">%1$d price available</item>
+        <item quantity="other">%1$d prices available</item>
+    </plurals>
+</resources>
